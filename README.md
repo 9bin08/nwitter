@@ -1,3 +1,3 @@
-2020.10.29 Stert
+2020.10.29 start
 
 Nomadcoder Nwetter
